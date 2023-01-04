@@ -6,7 +6,7 @@ In addition to my experience as a front-end developer, I have also developed ski
 
 I am constantly seeking to learn and improve my skills, staying up-to-date with the latest design trends and technologies by attending industry events and workshops. As a curious and empathetic person, I am interested in working as a UX designer because I want to help companies create products that are easy and enjoyable to use. My ability to prototype and wireframe, as well as my experience with visual communication, allows me to effectively show how the product will look and work. My strong communication and collaboration skills also allow me to work well with others to create a great product.
 
-I am excited about the opportunity to join a team of talented designers and developers and contribute to the success of their products. I am confident that my skills and experience make me an excellent fit for a UX/UI Designer position and I look forward to the opportunity to work with your team.
+I am excited about the opportunity to join a team of talented designers and developers and contribute to the success of their products. I am confident that my skills and experience make me an excellent fit for a Front End Dev/UX/UI Designer position and I look forward to the opportunity to work with your team.
 
 [![Linkedin Badge](https://img.shields.io/badge/-guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-carvalho-343597217/)](https://www.linkedin.com/in/guilherme-carvalho-343597217/)
 [![Gmail Badge](https://img.shields.io/badge/-guilhermerfc.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermerfc.contato@gmail.com)](mailto:guilhermerfc.contato@gmail.com)
