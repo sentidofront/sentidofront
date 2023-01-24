@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a front-end developer with a strong background in web3 and expertise in Javascript, HTML, CSS, and a little bit of React, I am passionate about creating intuitive and user-friendly interfaces. My love for art and my natural ability to learn new things on my own have allowed me to become a self-taught developer. I have taught myself development principles and techniques through online courses and tutorials and have gained a strong understanding of web technologies.
+As a front-end developer with a strong background in web3 and expertise in Javascript, HTML, CSS, I am passionate about creating intuitive and user-friendly interfaces. My love for art and my natural ability to learn new things on my own have allowed me to become a self-taught developer. I have taught myself development principles and techniques through online courses and tutorials and have gained a strong understanding of web technologies.
 
 In addition to my experience as a front-end developer, I have also developed skills as a UX/UI designer, specializing in Figma and the Adobe Creative Suite. I have applied my skills to various successful projects, including designing the UX/UI for the Universidade Libertária DAO and the Universidade Libertária website. My designs have consistently received positive feedback from users and have contributed to increased engagement and satisfaction.
 
