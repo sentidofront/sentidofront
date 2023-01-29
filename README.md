@@ -8,7 +8,6 @@ I am constantly seeking to learn and improve my skills, staying up-to-date with 
 
 I am excited about the opportunity to join a team of talented designers and developers and contribute to the success of their products. I am confident that my skills and experience make me an excellent fit for a Front End Dev/UX/UI Designer position and I look forward to the opportunity to work with your team.
 
-[![Linkedin Badge](https://img.shields.io/badge/-guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-carvalho-343597217/)](https://www.linkedin.com/in/guilherme-carvalho-343597217/)
 [![Gmail Badge](https://img.shields.io/badge/-guilhermerfc.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermerfc.contato@gmail.com)](mailto:guilhermerfc.contato@gmail.com)
 
 
