@@ -12,8 +12,7 @@ I am excited about the opportunity to join a team of talented designers and deve
 
 [![Gmail Badge](https://img.shields.io/badge/-guilhermerfc.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermerfc.contato@gmail.com)](mailto:guilhermerfc.contato@gmail.com)
 
-
-## ⚡ Technologies
+## 🛠 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
